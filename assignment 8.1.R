@@ -8,7 +8,7 @@
 #Answers
 #a) & b)
 #reading the dataset and viewing
-slr <- read.csv("D:/acadgild/slr.csv")
+slr <- read.csv("D:/user/farha/slr.csv")
 slr1<- slr
 View(slr1)
 
